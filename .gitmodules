@@ -1,3 +1,6 @@
 [submodule "t-vpn"]
 	path = t-vpn
 	url = https://github.com/tominem/t-vpn.git
+[submodule "webos-iptv-player"]
+	path = webos-iptv-player
+	url = https://github.com/tominem/webos-iptv-player.git
